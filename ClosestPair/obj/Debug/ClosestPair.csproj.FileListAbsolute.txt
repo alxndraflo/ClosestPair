@@ -1,0 +1,7 @@
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\bin\Debug\ClosestPair.exe.config
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\bin\Debug\ClosestPair.exe
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\bin\Debug\ClosestPair.pdb
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\obj\Debug\ClosestPair.csprojResolveAssemblyReference.cache
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\obj\Debug\ClosestPair.csproj.CoreCompileInputs.cache
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\obj\Debug\ClosestPair.exe
+C:\Users\alexandra\source\repos\ClosestPair\ClosestPair\obj\Debug\ClosestPair.pdb
